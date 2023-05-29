@@ -1,0 +1,49 @@
+html {
+    background-color: #AFD3E2;
+    font-family: helvetica, sans-serif; 
+    Text-align: center; 
+}
+
+html, body{
+    margin: 0px;
+    height: 100%;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100;
+}
+
+.navbar a{
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: 500;
+    color: #AFD3E2;
+}
+
+ul {
+    list-style-position: inside;
+    list-style-type:none;
+}
+
+h1, h2, h3{
+    text-transform:uppercase;
+    text-align: center;
+}
+
+.wit{
+    background-color: #F6F1F1;
+    color: black;
+    padding: 5px;
+}
+
+.blauw{
+    background-color: #AFD3E2;
+    color: white;
+}
+
+#Mike{
+    border-radius: 50%;
+}
